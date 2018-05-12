@@ -8,7 +8,7 @@
 
 body { overflow-x: hidden; }
 
-/* Menu Section css---------------------------------------------------------------------------------------------------- */ 
+/* Menu Section css---------------------------------------------------------------------------------------------------- */
 .navbar {
 	border: 0px none;
 	position: relative;
@@ -34,7 +34,7 @@ body { overflow-x: hidden; }
 	border-color: none;
 }
 .navbar-brand {
-    height: auto;	
+    height: auto;
 	font-size: 1.875rem;
 	line-height: 1.6;
 	font-weight: 600;
@@ -43,7 +43,7 @@ body { overflow-x: hidden; }
 }
 .site-branding-text { float: left; margin: 0 50px 0 0; padding: 12px 0; }
 .site-title {
-    height: auto;	
+    height: auto;
 	font-size: 1.875rem;
 	line-height: 1.3;
 	font-weight: 600;
@@ -89,7 +89,7 @@ body { overflow-x: hidden; }
 	/*min-width: 200px;*/
 	min-width: 220px;
 	border-radius: 0px;
-	box-shadow: 0;	
+	box-shadow: 0;
 }
 .dropdown-menu > li { padding: 0; }
 .dropdown-menu > li > a {
@@ -145,12 +145,12 @@ body { overflow-x: hidden; }
 
 @media (min-width: 991px) {
 	.navbar-toggle { display: none !important; }
-	.navbar-nav .dropdown-menu > li > a:hover, 
+	.navbar-nav .dropdown-menu > li > a:hover,
 	.navbar-nav .dropdown-menu > li > a:focus {
 		padding: 12px 15px 12px 17px !important;
-	}  
+	}
 }
-@media (min-width: 991px) and (max-width: 1024px) { 	
+@media (min-width: 991px) and (max-width: 1024px) {
 	.navbar-brand { margin-right: 25px; padding: 14px 0px; }
 	.navbar .navbar-nav > li > a { padding: 32px 12px; }
 	.navbar .cart-header { margin: 18px 12px 18px 20px; }
@@ -167,23 +167,23 @@ body { overflow-x: hidden; }
 		padding-bottom: 0;
 		overflow: visible !important;
 	}
-        
-    /*Media css*/    
+
+    /*Media css*/
 	.navbar .navbar-nav > li > a { color: #d5d5d5; }
-	.navbar .navbar-nav > li > a:hover, 
+	.navbar .navbar-nav > li > a:hover,
 	.navbar .navbar-nav > li > a:focus {
 		background-color: transparent;
 		color: #fff;
 	}
-	.navbar .navbar-nav > .active > a, 
-	.navbar .navbar-nav > .active > a:hover, 
+	.navbar .navbar-nav > .active > a,
+	.navbar .navbar-nav > .active > a:hover,
 	.navbar .navbar-nav > .active > a:focus {
-		color: #ce1b28;
+		color: #373638;
 		background-color: transparent;
 	}
 	.navbar .navbar-nav > .open > a,
 	.navbar .navbar-nav > .open > a:hover,
-	.navbar .navbar-nav > .open > a:focus { background-color: transparent; color: #ce1b28; border-bottom: 1px dotted #4c4a5f; }
+	.navbar .navbar-nav > .open > a:focus { background-color: transparent; color: #373638; border-bottom: 1px dotted #4c4a5f; }
 	.navbar .navbar-nav .dropdown-menu > li > a { border-bottom: 1px dotted #4c4a5f; }
 	.navbar-nav .open .dropdown-menu {
         position: static;
@@ -196,18 +196,18 @@ body { overflow-x: hidden; }
         box-shadow: none;
     }
 	.navbar .navbar-nav .open .dropdown-menu > li > a { color: #d5d5d5; padding: 12px 5px 12px 20px; margin: 0; transition: all 0.3s ease-in-out 0s;  }
-	.navbar .navbar-nav .open .dropdown-menu > li > a:hover, 
-	.navbar .navbar-nav .open .dropdown-menu > li > a:focus { 
-		background-color: transparent; 
-		color: #fff; 
-	}	
-	.navbar .navbar-nav .open .dropdown-menu > .active > a, 
-	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover { 
-		background-color: transparent; 
+	.navbar .navbar-nav .open .dropdown-menu > li > a:hover,
+	.navbar .navbar-nav .open .dropdown-menu > li > a:focus {
+		background-color: transparent;
+		color: #fff;
+	}
+	.navbar .navbar-nav .open .dropdown-menu > .active > a,
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-color: transparent;
 	}
 	.navbar .navbar-collapse, .navbar .navbar-form { border-color: transparent; }
 	.navbar .navbar-toggle .icon-bar { background-color: #0f0f16; }
-	.container > .navbar-header, .container-fluid > .navbar-header, 
+	.container > .navbar-header, .container-fluid > .navbar-header,
 	.container > .navbar-collapse, .container-fluid > .navbar-collapse { margin-left: 0px; margin-right: 0px; }
 	.navbar-nav { background-color: #21202e; margin: 0px; width: 100%; }
 	.navbar-nav > li { border-right: 0px none; }
@@ -225,7 +225,7 @@ body { overflow-x: hidden; }
 	}
 	.navbar .navbar-toggle:hover, .navbar .navbar-toggle:focus { background-color: transparent; }
 	.navbar-toggle .icon-bar { width: 40px; height: 1px; }
-	.navbar-toggle .icon-bar + .icon-bar { margin-top: 8px; }	
+	.navbar-toggle .icon-bar + .icon-bar { margin-top: 8px; }
 	.navbar .navbar-nav > li > a { padding: 12px 15px; border-bottom: 1px dotted #4c4a5f; }
 	/*Navbar Collapse*/
 	.navbar-collapse { padding-right: 0px; padding-left: 0px; }
@@ -241,8 +241,8 @@ body { overflow-x: hidden; }
 		transition: all 0.8s ease;
 	}
 	.navbar-collapse {
-		display: block; 
-		visibility: visible; 
+		display: block;
+		visibility: visible;
 		opacity: 1;
 		bottom: 0;
 		right: 0;
@@ -253,9 +253,9 @@ body { overflow-x: hidden; }
 		z-index:9;
 		top: 100%;
 		transition: all 0.8s ease;
-	}			
+	}
 }
-/*End*/	
+/*End*/
 
 @media only screen and (max-width: 480px) and (min-width: 100px) {
 .navbar-toggle { float: none; margin: 10px auto 30px; }
@@ -268,7 +268,7 @@ body { overflow-x: hidden; }
 
 @media only screen and (max-width: 480px) and (min-width: 100px) {
 	.navbar .navbar-collapse.in { top: 157px; }
-	.navbar .navbar-collapse { top: 157px; }	 
+	.navbar .navbar-collapse { top: 157px; }
 	.navbar-toggle { float: none; margin: 10px auto 30px; }
 	.cart-header { float: left; margin: 30px 4px 30px 12px; }
 	/*Logo*/
@@ -280,16 +280,3 @@ body { overflow-x: hidden; }
 	.site-branding-text img { display: block; margin: 0 auto; text-align: center; }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
