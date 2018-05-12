@@ -1,0 +1,926 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shrinktheweb-website-preview-plugin\n"
+"POT-Creation-Date: 2017-07-10 16:24+0600\n"
+"PO-Revision-Date: 2017-07-10 16:24+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:18
+msgid "Website Thumbnails"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:19
+msgid "Shrink The Web - Website Thumbnails"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:20
+#: ../stw-wp-thumbnails-tinymce-translation.php:22
+msgid "Website Url"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:21
+msgid "Website URL is empty!"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:23
+#: ../lib/admin_only.inc.php:409
+msgid "Shortcode Syntax"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:26
+msgid "Create link?"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:27
+#: ../stw-wp-thumbnails-tinymce-translation.php:28
+msgid "Alt attribute"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:29
+#: ../stw-wp-thumbnails-tinymce-translation.php:30
+msgid "Title attribute"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:31
+msgid "No"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:32
+msgid "Yes"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:33
+msgid "Size"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:34
+#: ../lib/admin_only.inc.php:31 ../lib/admin_only.inc.php:422
+msgid "Micro"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:35
+#: ../lib/admin_only.inc.php:32 ../lib/admin_only.inc.php:423
+msgid "Tiny"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:36
+#: ../lib/admin_only.inc.php:33 ../lib/admin_only.inc.php:424
+msgid "Very Small"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:37
+#: ../lib/admin_only.inc.php:34 ../lib/admin_only.inc.php:425
+#: ../lib/admin_only.inc.php:523
+msgid "Small"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:38
+#: ../lib/admin_only.inc.php:35 ../lib/admin_only.inc.php:426
+#: ../lib/admin_only.inc.php:524
+msgid "Large"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:39
+#: ../lib/admin_only.inc.php:36 ../lib/admin_only.inc.php:427
+#: ../lib/admin_only.inc.php:525
+msgid "Extra Large"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:40
+msgid "Custom"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:41
+msgid "Custom size"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:42
+msgid ""
+"Custom size attribute, which can be a number e.g. 500 or both width and "
+"height e.g. 640x320."
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:43
+msgid "Custom filename"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:44
+msgid ""
+"Custom filename attribute, which can contain letters, numbers, hyphens and "
+"underscores."
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:45
+msgid "Full length"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:46
+msgid "Screen"
+msgstr ""
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:47
+msgid ""
+"Screen attribute to set custom thumbnail creator's browser size, e.g. "
+"1280x960."
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:107
+msgid ""
+"Thank you for using the ShrinkTheWeb Previews plugin! We see that you've "
+"been using this plugin for 45 days, so we hope you are thrilled with it!"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:109
+#, php-format
+msgid ""
+"First, we wanted to mention that if you have a need to create a portfolio, "
+"then please take a look at the %s plugin."
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:110
+msgid ""
+"Now, if you LOVE this plugin, we'd like to ask you to take a moment and "
+"leave a very positive review. :)"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:113
+msgid "Sure, I'll write a review"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:114
+msgid "I've already reviewed this plugin"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:115
+msgid "Maybe later"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:116
+msgid "Request a new feature or enhancement"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:117
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:121
+msgid "Dismiss this notice."
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:307
+msgid "Website Thumbnail Settings"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:309
+msgid "How to use the plugin"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:309
+msgid "How to use"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:318
+msgid "Error Logs"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:319
+msgid "Thumbnail Cache"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:337
+msgid "Settings"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:558 ../stw-wp-thumbnails.php:570
+#: ../stw-wp-thumbnails.php:677 ../stw-wp-thumbnails.php:683
+#: ../stw-wp-thumbnails.php:709
+msgid "Request HTTP Code:"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:559
+msgid "Did not get HTTP 200 OK result from ShrinkTheWeb.com"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:678 ../stw-wp-thumbnails.php:683
+msgid "Did not get HTTP 200 OK when downloading thumbnail image."
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:709
+msgid "Empty image data from ShrinkTheWeb.com."
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:724
+msgid "Data from STW was empty."
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:781
+msgid "Thumbnail delivered successfully."
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:787
+msgid "Thumbnail queued for update."
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:822
+msgid "Could not parse response using"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:873
+msgid "Disable Custom Quality"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:1271 ../lib/admin_only.inc.php:270
+msgid "Error"
+msgstr ""
+
+#: ../stw-wp-thumbnails.php:1333 ../lib/admin_only.inc.php:605
+msgid "Donate"
+msgstr ""
+
+#: ../lib/stw_settings_class.inc.php:81
+msgid ""
+"<span class=\"stwwt_account_level\">Invalid</span> - please provide valid "
+"account details."
+msgstr ""
+
+#: ../lib/stw_settings_class.inc.php:174
+msgid "Error fetching account details."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:6
+#, php-format
+msgid ""
+"This is a PRO feature, and requires an <a href=\"%s\" target=\"_blank"
+"\">account upgrade</a>."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:11
+msgid "Requires <b>Basic</b> or <b>PLUS</b> account."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:11
+msgid "Upgrade your account."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:21
+msgid "Shrink The Web - How to use the plugin"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:26
+msgid "Embedded Screenshots - Shortcodes"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:29
+#, php-format
+msgid "Valid sizes for the %s option are:"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:40 ../lib/admin_only.inc.php:326
+#, php-format
+msgid ""
+"The Shrink The Web embed code shows a thumbnail for any link you wrap in "
+"%1$s or %2$s tags. Any use of these tags is replaced with the thumbnail of "
+"the website included in the tags."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:41
+#, php-format
+msgid ""
+"The %1$s attribute, which can be %2$s (add a link) or %3$s (don't add a "
+"link). To use a custom link, do not use the \"%4$s\" shortcode. Instead, "
+"just wrap the shortcode in a standard A HREF (see ex. 5 of this section). "
+"The %5$s attribute, which can be %6$s or  %7$s. The %8$s attribute, which "
+"can contain letters, numbers, hyphens and underscores. All spaces will be "
+"replaced with underscores automatically. This attribute may be added for SEO "
+"proposes to prepend human readable name to the cached thumbnail before "
+"hashed parameters."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:46 ../lib/admin_only.inc.php:116
+msgid "Creates a thumbnail using the default thumbail size."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:49
+#, php-format
+msgid ""
+"Creates a thumbnail using the default thumbail size , and also adds a link "
+"to the %s URL. If you have a free account, the link is always added."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:52
+#, php-format
+msgid ""
+"Creates an extra-large thumbnail <b>regardless</b> of the default thumbnail "
+"size. Also adds a link to the %s URL. If you have a free account, the link "
+"is always added."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:55
+msgid ""
+"Creates a small thumbnail <b>regardless</b> of the default thumbnail size."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:58
+#, php-format
+msgid "Creates thumbnail of %1$s with the link to %2$s."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:61
+#, php-format
+msgid ""
+"Creates a thumbnail, which will be cached locally with filename like %s."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:72
+msgid "Pro Feature - Full-Length Screenshots"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:77
+#, php-format
+msgid ""
+"The full length capture feature uses the %1$s attribute, which can be %2$s "
+"or %3$s. This attribute works with any of the other attributes on this page. "
+"Here are some examples:"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:80
+msgid ""
+"Creates a thumbnail using the default thumbail size, but forces the display "
+"of a <b>full length</b> screenshot thumbnail even if the full-length setting "
+"is disabled globally."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:83
+#, php-format
+msgid ""
+"Creates a thumbnail using the default thumbail size, as a full length "
+"thumbnail, and also adds a link to the %s URL."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:86
+msgid ""
+"Creates a thumbnail using the default thumbail size, but forces the display "
+"of a <b>normal length</b> screenshot thumbnail even if the full-length "
+"setting is enabled globally."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:89
+msgid ""
+"Creates an extra large width thumbnail and forces the display of a <b>full "
+"length</b> screenshot thumbnail even if the full-length setting is disabled "
+"globally."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:103
+msgid "Pro Feature - Custom Size Screenshots"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:107
+#, php-format
+msgid ""
+"The custom-size feature uses the %1$s attribute, which can be a number e.g. "
+"%2$s or both width and height e.g. %3$s. This attribute works with any of "
+"the other attributes on this page. Here are some examples:"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:110
+msgid ""
+"Creates a thumbnail <b>600 pixels wide</b>, regardless of the global "
+"thumbnail size."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:113
+msgid ""
+"Creates a thumbnail <b>340 pixels wide</b>, regardless of the global "
+"thumbnail size."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:119
+msgid ""
+"Creates a thumbnail <b>640 pixels wide</b> and <b>320 pixels high</b>, "
+"regardless of the global thumbnail size."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:122
+#, php-format
+msgid ""
+"Creates a thumbnail <b>340 pixels wide</b> and also adds a link to the %s "
+"URL."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:125
+#, php-format
+msgid ""
+"Also you can use %1$s attribute to set custom thumbnail creator's browser "
+"size, e.g. %2$s. This attribute works with any of the other attributes on "
+"this page. Here are some examples:"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:128
+msgid ""
+"Creates a thumbnail of <b>320x240 pixels</b> from web page screenshot how it "
+"looks on custom viewport <b>1280x960 pixels</b>."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:131
+msgid ""
+"Creates a widescreen thumbnail of <b>400x225 pixels</b>, from web page "
+"screenshot how it looks on custom viewport <b>1366x768 pixels</b>."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:147
+msgid "Shrink The Web - Website Thumbnails - Cache"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:150 ../lib/admin_only.inc.php:155
+msgid "Clear Thumbnail Cache"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:151
+msgid ""
+"Generally speaking, you do not need to clear the thumbnail cache. The plugin "
+"automatically manages the thumbnail cache, updating thumbnails "
+"automatically. However, if you do need to clear the cache for any reason, "
+"you can use the button below to flush the cache."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:160
+msgid "Cache successfully emptied."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:174
+msgid "Cache Path Information"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:175
+#, php-format
+msgid "Your server cache path is %1$s, which translates to a URL of %2$s."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:176
+#, php-format
+msgid "Your cache path is currently %s"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:176
+msgid "Writeable"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:176
+msgid "This is fine, so you do not need to do anything more."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:176
+msgid "Not Writeable"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:176
+msgid "This needs fixing for the thumbnail cache to work."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:196
+msgid "Shrink The Web - Website Thumbnails - Error Logs"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:208
+msgid "Debug logs have successfully been emptied."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:215
+msgid "Refresh Logs"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:216
+msgid "Clear Logs"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:232
+#, php-format
+msgid "Showing a total of %s log messages."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:234
+msgid ""
+"<p>All <b>errors are cached for 12 hours</b> so that your thumbnail "
+"allowance with STW does not get used up if you have persistent errors. If "
+"you've <b>had errors</b>, and you've <b>now fixed them</b>, you can click on "
+"the '<b>Clear Logs</b>' button on the right to <b>flush the error cache</b> "
+"and re-attempt to fetch a thumbnail.</p>"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:239
+msgid "ID"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:243
+msgid "Result"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:247
+msgid "Requested URL"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:251
+msgid "Type"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:255
+msgid "Request Date"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:259
+msgid "Detail"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:270
+msgid "Success"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:271
+#, php-format
+msgid "about %s ago"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:275
+msgid "Error Message"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:278
+msgid "Request Arguments"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:282
+msgid "Raw STW Response"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:295
+msgid "There are currently no debug logs to show."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:316
+msgid ""
+"The Shrink The Web mouseover bubble shows a thumbnail of the website when "
+"hovered over a link on your WordPress website. This gives website visitors a "
+"preview of the link before they visit the website you link to."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:317
+#, php-format
+msgid ""
+"If the \"%1$s\" is selected below, all external links will show ShrinkTheWeb "
+"preview bubbles. Use %2$s to disable popup bubble for a specific link."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:318
+#, php-format
+msgid ""
+"If the \"%3$s\" method is selected below, then you choose which links get a "
+"preview bubble by adding %4$s to any link where you want to show them."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:318 ../lib/admin_only.inc.php:513
+msgid "Automatic"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:318 ../lib/admin_only.inc.php:514
+msgid "Manual"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:326
+msgid "See some examples on the documentation page"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:333
+#, php-format
+msgid ""
+"The following features <b>require an upgraded account</b>. You can find more "
+"details on the <a href=\"%1$s\" target=\"_blank\">Shrink The Web Upgrade "
+"Page</a>"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:334
+#, php-format
+msgid ""
+"These settings are <b>global</b>, so they apply to <b>all thumbnails</b> on "
+"your website. Some of these settings have a per-thumbnail override, so "
+"please read <a href=\"%2$s\">the documentation</a> on how to apply these "
+"settings to specific thumbnails."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:339
+msgid "Shrink The Web - Website Thumbnails - Settings"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:341
+msgid "Thumbnail Settings"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:349
+msgid "Account Settings"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:353
+msgid "Access Key Id"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:357
+#, php-format
+msgid ""
+"Your Shrink The Web <b>access</b> key. You can find this within your <a href="
+"\"%s\" target=\"_blank\">STW Account Details</a>."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:361
+msgid ""
+"Your STW access key should only contain numbers and letters, and it's about "
+"15 characters long."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:366
+msgid "Secret Key Id"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:370
+#, php-format
+msgid ""
+"Your Shrink The Web <b>secret</b> key. You can find this within your <a href="
+"\"%s\" target=\"_blank\">STW Account Details</a>."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:374
+msgid ""
+"Your STW secret key should only contain letters, numbers and special "
+"characters, and it's about 5-32 characters long."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:379
+msgid "Your STW Account Level"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:382
+msgid ""
+"If you change any aspects of your Shrink The Web account (such as upgrades), "
+"click on the <b>Save All Settings</b> button below to re-load what features "
+"you can use."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:388
+msgid "Screenshot Settings"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:388 ../lib/admin_only.inc.php:458
+#: ../lib/admin_only.inc.php:504 ../lib/admin_only.inc.php:535
+#: ../lib/admin_only.inc.php:642
+msgid "Save ALL Settings"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:393
+msgid "Enable HTTP Secure (HTTPS)"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:396
+msgid "Disable"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:397
+msgid "Enable"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:399
+msgid "Use HTTPS to get screenshots."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:399
+msgid ""
+"This option disappears and HTTPS will be enabled automatically whenever "
+"HTTPS is detected."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:419
+msgid "Default Screenshot Size"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:429
+msgid "The size of the thumbnail shown by the thumbnail shortcode."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:434
+msgid "Cache Length in Days"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:437
+msgid "No caching (Embedded requests)"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:438
+msgid "3 Days"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:439
+msgid "7 Days (recommended)"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:440
+msgid "10 Days"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:441
+msgid "14 Days"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:442
+msgid "21 Days"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:443
+msgid "30 Days"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:445
+msgid "How long you want to cache the thumbnails for."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:450
+msgid "Custom Thumbnail Quality"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:453
+msgid ""
+"If you want to customise the thumbnail image quality, then you can select a "
+"quality value between 1% and 100%. A value of <b>1% is the lowest quality</"
+"b>, and <b>100% is the best quality</b>."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:458
+msgid "PRO Feature Settings"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:463
+msgid "Full-length Page Captures"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:466
+msgid "Enabled"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:467 ../lib/admin_only.inc.php:512
+msgid "Disabled"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:475
+msgid "Custom Size"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:478
+msgid ""
+"Use this option if you want to set custom thumbnail size e.g. 641x356 or "
+"just custom width e.g 573 (image height will be calculated automatically to "
+"fit 4:3 proportion). Default Screenshot Size will be ignored. This setting "
+"apply to all screenshots that do not use a shortcode option override."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:482
+msgid "You must enter an integer for custom thumbnail size."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:489
+msgid "Custom Viewport"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:492
+msgid ""
+"Use this option if you want to set custom browser size e.g. 1280x960. This "
+"setting apply to all screenshots that do not use a shortcode option override."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:496
+msgid "You must enter an integer for custom viewport size."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:504
+msgid "Mouseover Bubble Settings"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:509
+msgid "Preview Bubbles Show Method"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:520
+msgid "Preview Bubbles Thumbnail Size"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:527
+msgid ""
+"The size of the thumbnail shown in the preview bubble when a website visitor "
+"hovers over a link."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:549
+msgid "Your Account Features"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:554
+msgid "Feature"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:555
+msgid "Your Account"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:567
+msgid "Inside Pages Capture"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:571
+msgid "Full Length Capture"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:575
+msgid "Custom Sizes"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:589
+msgid "Get a STW Account..."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:592
+msgid "Website Thumbnail Provider"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:592
+msgid "Register for a free account with Shrink The Web"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:596
+msgid "Need an account?"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:597
+msgid "Register for FREE"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:613
+msgid "Help &amp; Support"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:615
+msgid ""
+"If you've got a problem with the plugin, please follow the following steps."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:617
+#, php-format
+msgid ""
+"Check the <a href=\"%s\" target=\"_blank\">Frequently Asked Questions</a> on "
+"WordPress.org. Your issue might already be answered or resolved."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:618
+#, php-format
+msgid ""
+"Check the <a href=\"%s\" target=\"_blank\">plugin support forum</a> on "
+"WordPress.org. Someone might have had the same issue, and fixed it already."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:619
+#, php-format
+msgid ""
+"If you think the problem is a <b>plugin problem</b>, please raise the "
+"problem in the <a href=\"%s\" target=\"_blank\">plugin support forum</a> on "
+"WordPress.org, including <b>as much detail as possible</b>, including any "
+"<b>error messages</b>."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:620
+#, php-format
+msgid ""
+"If you think the problem is a <b>STW or STW account problem</b>, please "
+"raise the problem in the <a href=\"%s\" target=\"_blank\">STW support forum</"
+"a>, including <b>as much detail as possible</b>, including any <b>error "
+"messages</b>."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:624
+msgid "A word about the plugin authors..."
+msgstr ""
+
+#: ../lib/admin_only.inc.php:625
+#, php-format
+msgid ""
+"This plugin and the <a href=\"%1$s\" target=\"_blank\">Shrink The Web</a> "
+"service has been developed and is provided by <a href=\"%2$s\" target="
+"\"_blank\">Neosys Consulting, Inc.</a>"
+msgstr ""
+
+#: ../lib/admin_only.inc.php:684
+msgid "PayPal - The safer, easier way to pay online!"
+msgstr ""

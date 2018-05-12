@@ -1,0 +1,1096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shrinktheweb-website-preview-plugin\n"
+"POT-Creation-Date: 2017-07-10 16:40+0600\n"
+"PO-Revision-Date: 2017-07-10 16:40+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:18
+msgid "Website Thumbnails"
+msgstr "Эскизы сайтов"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:19
+msgid "Shrink The Web - Website Thumbnails"
+msgstr "Shrink The Web - Эскизы сайтов"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:20
+#: ../stw-wp-thumbnails-tinymce-translation.php:22
+msgid "Website Url"
+msgstr "Веб-адрес сайта"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:21
+msgid "Website URL is empty!"
+msgstr "Веб-адрес сайта пуст!"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:23
+#: ../lib/admin_only.inc.php:409
+msgid "Shortcode Syntax"
+msgstr "Синтаксис шорткода"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:26
+msgid "Create link?"
+msgstr "Создать ссылку?"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:27
+#: ../stw-wp-thumbnails-tinymce-translation.php:28
+msgid "Alt attribute"
+msgstr "Атрибут Alt"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:29
+#: ../stw-wp-thumbnails-tinymce-translation.php:30
+msgid "Title attribute"
+msgstr "Атрибут Title"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:31
+msgid "No"
+msgstr "Нет"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:32
+msgid "Yes"
+msgstr "Да"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:33
+msgid "Size"
+msgstr "Размер"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:34
+#: ../lib/admin_only.inc.php:31 ../lib/admin_only.inc.php:422
+msgid "Micro"
+msgstr "Микро"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:35
+#: ../lib/admin_only.inc.php:32 ../lib/admin_only.inc.php:423
+msgid "Tiny"
+msgstr "Крошечный"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:36
+#: ../lib/admin_only.inc.php:33 ../lib/admin_only.inc.php:424
+msgid "Very Small"
+msgstr "Очень маленький"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:37
+#: ../lib/admin_only.inc.php:34 ../lib/admin_only.inc.php:425
+#: ../lib/admin_only.inc.php:523
+msgid "Small"
+msgstr "Маленький"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:38
+#: ../lib/admin_only.inc.php:35 ../lib/admin_only.inc.php:426
+#: ../lib/admin_only.inc.php:524
+msgid "Large"
+msgstr "Большой"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:39
+#: ../lib/admin_only.inc.php:36 ../lib/admin_only.inc.php:427
+#: ../lib/admin_only.inc.php:525
+msgid "Extra Large"
+msgstr "Очень большой"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:40
+msgid "Custom"
+msgstr "Особый"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:41
+msgid "Custom size"
+msgstr "Особый размер"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:42
+msgid ""
+"Custom size attribute, which can be a number e.g. 500 or both width and "
+"height e.g. 640x320."
+msgstr ""
+"Атрибут особый размер, который может быть числом, например, 500, или "
+"одновременно шириной и высотой, например, 640х320."
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:43
+msgid "Custom filename"
+msgstr "Особое имя файла"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:44
+msgid ""
+"Custom filename attribute, which can contain letters, numbers, hyphens and "
+"underscores."
+msgstr ""
+"Атрибут особое имя файла, который может содержать буквы, цифры, дефисы и "
+"подчеркивания."
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:45
+msgid "Full length"
+msgstr "Полноразмерный"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:46
+msgid "Screen"
+msgstr "Экран"
+
+#: ../stw-wp-thumbnails-tinymce-translation.php:47
+msgid ""
+"Screen attribute to set custom thumbnail creator's browser size, e.g. "
+"1280x960."
+msgstr ""
+"Атрибут экран для задания особого размера браузера при создании эскизов, "
+"например, 1280x960."
+
+#: ../stw-wp-thumbnails.php:107
+msgid ""
+"Thank you for using the ShrinkTheWeb Previews plugin! We see that you've "
+"been using this plugin for 45 days, so we hope you are thrilled with it!"
+msgstr ""
+"Благодарим Вас за использование плагина ShrinkTheWeb Previews! Мы видим, что "
+"Вы используете этот плагин в течение 45 дней, поэтому мы надеемся, что Вы в "
+"восторге от этого!"
+
+#: ../stw-wp-thumbnails.php:109
+#, php-format
+msgid ""
+"First, we wanted to mention that if you have a need to create a portfolio, "
+"then please take a look at the %s plugin."
+msgstr ""
+"Для начала, мы хотели бы упомянуть, что если Вам нужно создать портфолио, "
+"пожалуйста, взгляните на плагин %s."
+
+#: ../stw-wp-thumbnails.php:110
+msgid ""
+"Now, if you LOVE this plugin, we'd like to ask you to take a moment and "
+"leave a very positive review. :)"
+msgstr ""
+"Теперь, если Вы ЛЮБИТЕ этот плагин, мы хотели бы попросить Вас уделить "
+"минутку и оставить очень положительный отзыв. :)"
+
+#: ../stw-wp-thumbnails.php:113
+msgid "Sure, I'll write a review"
+msgstr "Конечно, я оставлю отзыв"
+
+#: ../stw-wp-thumbnails.php:114
+msgid "I've already reviewed this plugin"
+msgstr "Я уже оставил отзыв об этом плагине"
+
+#: ../stw-wp-thumbnails.php:115
+msgid "Maybe later"
+msgstr "Может быть позже"
+
+#: ../stw-wp-thumbnails.php:116
+msgid "Request a new feature or enhancement"
+msgstr "Запросить новую функцию или улучшение"
+
+#: ../stw-wp-thumbnails.php:117
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#: ../stw-wp-thumbnails.php:121
+msgid "Dismiss this notice."
+msgstr "Закрыть это уведомление"
+
+#: ../stw-wp-thumbnails.php:307
+msgid "Website Thumbnail Settings"
+msgstr "Настройки эскизов сайта"
+
+#: ../stw-wp-thumbnails.php:309
+msgid "How to use the plugin"
+msgstr "Как использовать плагин"
+
+#: ../stw-wp-thumbnails.php:309
+msgid "How to use"
+msgstr "Как использовать"
+
+#: ../stw-wp-thumbnails.php:318
+msgid "Error Logs"
+msgstr "Журналы ошибок"
+
+#: ../stw-wp-thumbnails.php:319
+msgid "Thumbnail Cache"
+msgstr "Кэш эскизов"
+
+#: ../stw-wp-thumbnails.php:337
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../stw-wp-thumbnails.php:558 ../stw-wp-thumbnails.php:570
+#: ../stw-wp-thumbnails.php:677 ../stw-wp-thumbnails.php:683
+#: ../stw-wp-thumbnails.php:709
+msgid "Request HTTP Code:"
+msgstr "HTTP код запроса:"
+
+#: ../stw-wp-thumbnails.php:559
+msgid "Did not get HTTP 200 OK result from ShrinkTheWeb.com"
+msgstr "Не получен результат HTTP 200 OK от ShrinkTheWeb.com"
+
+#: ../stw-wp-thumbnails.php:678 ../stw-wp-thumbnails.php:683
+msgid "Did not get HTTP 200 OK when downloading thumbnail image."
+msgstr "Не получен HTTP 200 OK при скачивании изображения эскиза."
+
+#: ../stw-wp-thumbnails.php:709
+msgid "Empty image data from ShrinkTheWeb.com."
+msgstr "Пустые данные изображения от ShrinkTheWeb.com."
+
+#: ../stw-wp-thumbnails.php:724
+msgid "Data from STW was empty."
+msgstr "Данные от STW были пусты."
+
+#: ../stw-wp-thumbnails.php:781
+msgid "Thumbnail delivered successfully."
+msgstr "Эскиз успешно доставлен."
+
+#: ../stw-wp-thumbnails.php:787
+msgid "Thumbnail queued for update."
+msgstr "Эскиз поставлен в очередь обновления."
+
+#: ../stw-wp-thumbnails.php:822
+msgid "Could not parse response using"
+msgstr "Не удалось выполнить синтаксический анализ ответа с помощью"
+
+#: ../stw-wp-thumbnails.php:873
+msgid "Disable Custom Quality"
+msgstr "Отключить особое качество"
+
+#: ../stw-wp-thumbnails.php:1271 ../lib/admin_only.inc.php:270
+msgid "Error"
+msgstr "Ошибка"
+
+#: ../stw-wp-thumbnails.php:1333 ../lib/admin_only.inc.php:605
+msgid "Donate"
+msgstr "Пожертвовать"
+
+#: ../lib/stw_settings_class.inc.php:81
+msgid ""
+"<span class=\"stwwt_account_level\">Invalid</span> - please provide valid "
+"account details."
+msgstr ""
+"<span class=\"stwwt_account_level\">Неверно</span> - пожалуйста, укажите "
+"правильные данные аккаунта."
+
+#: ../lib/stw_settings_class.inc.php:174
+msgid "Error fetching account details."
+msgstr "Ошибка при получении данных аккаунта."
+
+#: ../lib/admin_only.inc.php:6
+#, php-format
+msgid ""
+"This is a PRO feature, and requires an <a href=\"%s\" target=\"_blank"
+"\">account upgrade</a>."
+msgstr ""
+"Это PRO функция, которая требует <a href=\"%s\" target=\"_blank\">обновления "
+"аккаунта</a>."
+
+#: ../lib/admin_only.inc.php:11
+msgid "Requires <b>Basic</b> or <b>PLUS</b> account."
+msgstr "Требуется <b>«Базовый»</b> или <b>«ПЛЮС»</b> аккаунт."
+
+#: ../lib/admin_only.inc.php:11
+msgid "Upgrade your account."
+msgstr "Обновите свой аккаунт."
+
+#: ../lib/admin_only.inc.php:21
+msgid "Shrink The Web - How to use the plugin"
+msgstr "Shrink The Web - Как использовать плагин"
+
+#: ../lib/admin_only.inc.php:26
+msgid "Embedded Screenshots - Shortcodes"
+msgstr "Встроенные скриншоты - Шорткоды"
+
+#: ../lib/admin_only.inc.php:29
+#, php-format
+msgid "Valid sizes for the %s option are:"
+msgstr "Допустимые размеры для параметра %s:"
+
+#: ../lib/admin_only.inc.php:40 ../lib/admin_only.inc.php:326
+#, php-format
+msgid ""
+"The Shrink The Web embed code shows a thumbnail for any link you wrap in "
+"%1$s or %2$s tags. Any use of these tags is replaced with the thumbnail of "
+"the website included in the tags."
+msgstr ""
+"Встроенный код The Shrink The Web отображает эскиз для любой ссылки, которую "
+"вы заключаете в теги %1$s или %2$s. При любом использовании этих тегов они "
+"заменяются на эскиз веб-сайта, заключенный в эти теги."
+
+#: ../lib/admin_only.inc.php:41
+#, php-format
+msgid ""
+"The %1$s attribute, which can be %2$s (add a link) or %3$s (don't add a "
+"link). To use a custom link, do not use the \"%4$s\" shortcode. Instead, "
+"just wrap the shortcode in a standard A HREF (see ex. 5 of this section). "
+"The %5$s attribute, which can be %6$s or  %7$s. The %8$s attribute, which "
+"can contain letters, numbers, hyphens and underscores. All spaces will be "
+"replaced with underscores automatically. This attribute may be added for SEO "
+"proposes to prepend human readable name to the cached thumbnail before "
+"hashed parameters."
+msgstr ""
+"Атрибут %1$s, который может принимать значение %2$s (добавить ссылку) или "
+"%3$s (не добавлять ссылку). Чтобы использовать особую ссылку, не применяйте "
+"шорткод \"%4$s\". Вместо этого просто заключите шорткод в стандартный HREF "
+"(см. кроме 5 в этом разделе). Атрибут %5$s, который может принимать значения "
+"%6$s или %7$s. Атрибут %8$s атрибут, который может содержать буквы, цифры, "
+"дефисы и подчеркивания. Все пробелы будут автоматически заменены "
+"подчеркиваниями. Этот атрибут может быть добавлен для целей оптимизации "
+"поисковых систем (SEO) и позволяет добавить понятное человеку имя в "
+"кэшированный эскиз до хэшированных параметров."
+
+#: ../lib/admin_only.inc.php:46 ../lib/admin_only.inc.php:116
+msgid "Creates a thumbnail using the default thumbail size."
+msgstr "Создает эскиз с использованием размера эскиза по умолчанию."
+
+#: ../lib/admin_only.inc.php:49
+#, php-format
+msgid ""
+"Creates a thumbnail using the default thumbail size , and also adds a link "
+"to the %s URL. If you have a free account, the link is always added."
+msgstr ""
+"Создает эскиз с использованием размеров эскиза по умолчанию, а также "
+"добавляет ссылку на веб-адрес %s. Если у вас есть бесплатный аккаунт, ссылка "
+"добавляется во всех случаях."
+
+#: ../lib/admin_only.inc.php:52
+#, php-format
+msgid ""
+"Creates an extra-large thumbnail <b>regardless</b> of the default thumbnail "
+"size. Also adds a link to the %s URL. If you have a free account, the link "
+"is always added."
+msgstr ""
+"Создает очень большой эскиз, <b>независимо</b> от размера эскиза по "
+"умолчанию. Также добавляет ссылку на веб-адрес %s. Если у вас есть "
+"бесплатный аккаунт, ссылка добавляется во всех случаях."
+
+#: ../lib/admin_only.inc.php:55
+msgid ""
+"Creates a small thumbnail <b>regardless</b> of the default thumbnail size."
+msgstr ""
+"Создает маленький эскиз, <b>независимо</b> от размера эскиза по умолчанию."
+
+#: ../lib/admin_only.inc.php:58
+#, php-format
+msgid "Creates thumbnail of %1$s with the link to %2$s."
+msgstr "Создает эскиз %1$ s со ссылкой на %2$s."
+
+#: ../lib/admin_only.inc.php:61
+#, php-format
+msgid ""
+"Creates a thumbnail, which will be cached locally with filename like %s."
+msgstr ""
+"Создает эскиз, который будет кэшироваться локально с таким именем файла, как "
+"%s."
+
+#: ../lib/admin_only.inc.php:72
+msgid "Pro Feature - Full-Length Screenshots"
+msgstr "Pro функция - Полноразмерные скриншоты "
+
+#: ../lib/admin_only.inc.php:77
+#, php-format
+msgid ""
+"The full length capture feature uses the %1$s attribute, which can be %2$s "
+"or %3$s. This attribute works with any of the other attributes on this page. "
+"Here are some examples:"
+msgstr ""
+"Функция полноразмерного снимка использует атрибут %1$s, который может "
+"принимать значения %2$s или %3$ s. Этот атрибут применяется совместно с "
+"любым из других атрибутов на этой странице. Вот несколько примеров:"
+
+#: ../lib/admin_only.inc.php:80
+msgid ""
+"Creates a thumbnail using the default thumbail size, but forces the display "
+"of a <b>full length</b> screenshot thumbnail even if the full-length setting "
+"is disabled globally."
+msgstr ""
+"Создает эскиз с использованием размеров эскиза по умолчанию, но "
+"принудительно отображает <b>полноразмерный</b> эскиз скриншота, даже если "
+"настройка полноразмерности отключена."
+
+#: ../lib/admin_only.inc.php:83
+#, php-format
+msgid ""
+"Creates a thumbnail using the default thumbail size, as a full length "
+"thumbnail, and also adds a link to the %s URL."
+msgstr ""
+"Создает эскиз с использованием размеров эскиза по умолчанию в виде "
+"полноразмерного эскиза, а также добавляет ссылку на веб-адрес %s."
+
+#: ../lib/admin_only.inc.php:86
+msgid ""
+"Creates a thumbnail using the default thumbail size, but forces the display "
+"of a <b>normal length</b> screenshot thumbnail even if the full-length "
+"setting is enabled globally."
+msgstr ""
+"Создает эскиз с использованием размеров эскиза по умолчанию, но "
+"принудительно отображает эскиз скриншота <b>обычного размера</b>, даже если "
+"глобальная настройка полноразмерности включена."
+
+#: ../lib/admin_only.inc.php:89
+msgid ""
+"Creates an extra large width thumbnail and forces the display of a <b>full "
+"length</b> screenshot thumbnail even if the full-length setting is disabled "
+"globally."
+msgstr ""
+"Создает очень широкий эскиз и принудительно отображает <b>полноразмерный</b> "
+"эскиз скриншота, даже если глобальная настройка полноразмерности отключена."
+
+#: ../lib/admin_only.inc.php:103
+msgid "Pro Feature - Custom Size Screenshots"
+msgstr "Pro функция - Особый размер скриншотов"
+
+#: ../lib/admin_only.inc.php:107
+#, php-format
+msgid ""
+"The custom-size feature uses the %1$s attribute, which can be a number e.g. "
+"%2$s or both width and height e.g. %3$s. This attribute works with any of "
+"the other attributes on this page. Here are some examples:"
+msgstr ""
+"Функция особого размера использует атрибут %1$s, который может быть числом, "
+"например, %2$s, или одновременно шириной и высотой, например, %3$ s. Этот "
+"атрибут применяется совместно с любым из других атрибутов на этой странице. "
+"Вот несколько примеров:"
+
+#: ../lib/admin_only.inc.php:110
+msgid ""
+"Creates a thumbnail <b>600 pixels wide</b>, regardless of the global "
+"thumbnail size."
+msgstr ""
+"Создает эскиз <b>шириной 600 пикселей</b>, независимо от глобальной "
+"настройки размера эскиза."
+
+#: ../lib/admin_only.inc.php:113
+msgid ""
+"Creates a thumbnail <b>340 pixels wide</b>, regardless of the global "
+"thumbnail size."
+msgstr ""
+"Создает эскиз <b>шириной 340 пикселей</b>, независимо от глобальной "
+"настройки размера эскиза."
+
+#: ../lib/admin_only.inc.php:119
+msgid ""
+"Creates a thumbnail <b>640 pixels wide</b> and <b>320 pixels high</b>, "
+"regardless of the global thumbnail size."
+msgstr ""
+"Создает эскиз <b>шириной 640 пикселей</b> и <b>высотой 320 пикселей</b>, "
+"независимо от глобальной настройки размера эскиза."
+
+#: ../lib/admin_only.inc.php:122
+#, php-format
+msgid ""
+"Creates a thumbnail <b>340 pixels wide</b> and also adds a link to the %s "
+"URL."
+msgstr ""
+"Создает эскиз <b>шириной 340 пикселей</b>, а также добавляет ссылку на веб-"
+"адрес %s."
+
+#: ../lib/admin_only.inc.php:125
+#, php-format
+msgid ""
+"Also you can use %1$s attribute to set custom thumbnail creator's browser "
+"size, e.g. %2$s. This attribute works with any of the other attributes on "
+"this page. Here are some examples:"
+msgstr ""
+"Вы также можете использовать атрибут %1$s, чтобы задать особый размер "
+"браузера при создании эскизов, например, %2$s. Этот атрибут работает с любым "
+"из других атрибутов на этой странице. Вот несколько примеров:"
+
+#: ../lib/admin_only.inc.php:128
+msgid ""
+"Creates a thumbnail of <b>320x240 pixels</b> from web page screenshot how it "
+"looks on custom viewport <b>1280x960 pixels</b>."
+msgstr ""
+"Создает эскиз размером <b>320x240 писелей</b> из скриншота сайта в том виде "
+"в каком он отображается в особом окне просмотра размером <b>1280x960 "
+"пикселей</b>."
+
+#: ../lib/admin_only.inc.php:131
+msgid ""
+"Creates a widescreen thumbnail of <b>400x225 pixels</b>, from web page "
+"screenshot how it looks on custom viewport <b>1366x768 pixels</b>."
+msgstr ""
+"Создает широкоэкранный эскиз размером <b>400x225 писелей</b> из скриншота "
+"сайта в том виде, в каком он отображается в особом окне просмотра размером "
+"<b>1366x768 пикселей</b>."
+
+#: ../lib/admin_only.inc.php:147
+msgid "Shrink The Web - Website Thumbnails - Cache"
+msgstr "Shrink The Web - Эскизы сайта - Кэш"
+
+#: ../lib/admin_only.inc.php:150 ../lib/admin_only.inc.php:155
+msgid "Clear Thumbnail Cache"
+msgstr "Очистить кэш эскизов"
+
+#: ../lib/admin_only.inc.php:151
+msgid ""
+"Generally speaking, you do not need to clear the thumbnail cache. The plugin "
+"automatically manages the thumbnail cache, updating thumbnails "
+"automatically. However, if you do need to clear the cache for any reason, "
+"you can use the button below to flush the cache."
+msgstr ""
+"В общем-то, вам не нужно очищать кэш эскизов. Плагин автоматически управляет "
+"кэшем эскизов, выполняя их автоматическое обновление. Однако если вам по "
+"какой-либо причине нужно очистить кэш, вы можете воспользоваться приведенной "
+"ниже кнопкой."
+
+#: ../lib/admin_only.inc.php:160
+msgid "Cache successfully emptied."
+msgstr "Кэш успешно очищен."
+
+#: ../lib/admin_only.inc.php:174
+msgid "Cache Path Information"
+msgstr "Информация о пути кэширования"
+
+#: ../lib/admin_only.inc.php:175
+#, php-format
+msgid "Your server cache path is %1$s, which translates to a URL of %2$s."
+msgstr ""
+"Ваш серверный путь кэширования — %1$s, который преобразуется в веб-адрес "
+"%2$s."
+
+#: ../lib/admin_only.inc.php:176
+#, php-format
+msgid "Your cache path is currently %s"
+msgstr "Ваш текущий путь к кэшу: %s"
+
+#: ../lib/admin_only.inc.php:176
+msgid "Writeable"
+msgstr "Доступно для записи"
+
+#: ../lib/admin_only.inc.php:176
+msgid "This is fine, so you do not need to do anything more."
+msgstr "Все в порядке, вам больше ничего не нужно делать."
+
+#: ../lib/admin_only.inc.php:176
+msgid "Not Writeable"
+msgstr "Недоступно для записи "
+
+#: ../lib/admin_only.inc.php:176
+msgid "This needs fixing for the thumbnail cache to work."
+msgstr "Эту проблему необходимо исправить, чтобы кэша эскизов смог работать."
+
+#: ../lib/admin_only.inc.php:196
+msgid "Shrink The Web - Website Thumbnails - Error Logs"
+msgstr "Shrink The Web - Эскизы сайтов - Журналы ошибок"
+
+#: ../lib/admin_only.inc.php:208
+msgid "Debug logs have successfully been emptied."
+msgstr "Журналы отладки успешно очищены."
+
+#: ../lib/admin_only.inc.php:215
+msgid "Refresh Logs"
+msgstr "Обновить журналы"
+
+#: ../lib/admin_only.inc.php:216
+msgid "Clear Logs"
+msgstr "Очистить журналы"
+
+#: ../lib/admin_only.inc.php:232
+#, php-format
+msgid "Showing a total of %s log messages."
+msgstr "Отображается всего %s сообщения(ий) журнала."
+
+#: ../lib/admin_only.inc.php:234
+msgid ""
+"<p>All <b>errors are cached for 12 hours</b> so that your thumbnail "
+"allowance with STW does not get used up if you have persistent errors. If "
+"you've <b>had errors</b>, and you've <b>now fixed them</b>, you can click on "
+"the '<b>Clear Logs</b>' button on the right to <b>flush the error cache</b> "
+"and re-attempt to fetch a thumbnail.</p>"
+msgstr ""
+"<p>Все <b>ошибки кэшируются на 12 часов,</b> чтобы ваша квота эскизов в STW "
+"не была использована, если у вас постоянно возникают ошибки. Если у вас "
+"<b>возникли ошибки</b> и вы <b>уже исправили их</b>, вы можете нажать на "
+"кнопку «<b>Очистить журналы</b>» справа, чтобы <b>очистить кэш ошибок</b> и "
+"повторить попытку извлечения эскиза.<p>"
+
+#: ../lib/admin_only.inc.php:239
+msgid "ID"
+msgstr "Идентификатор"
+
+#: ../lib/admin_only.inc.php:243
+msgid "Result"
+msgstr "Результат"
+
+#: ../lib/admin_only.inc.php:247
+msgid "Requested URL"
+msgstr "Запрошенный веб-адрес"
+
+#: ../lib/admin_only.inc.php:251
+msgid "Type"
+msgstr "Тип"
+
+#: ../lib/admin_only.inc.php:255
+msgid "Request Date"
+msgstr "Дата запроса"
+
+#: ../lib/admin_only.inc.php:259
+msgid "Detail"
+msgstr "Сведения"
+
+#: ../lib/admin_only.inc.php:270
+msgid "Success"
+msgstr "Успех"
+
+#: ../lib/admin_only.inc.php:271
+#, php-format
+msgid "about %s ago"
+msgstr "примерно %s назад"
+
+#: ../lib/admin_only.inc.php:275
+msgid "Error Message"
+msgstr "Сообщение об ошибке"
+
+#: ../lib/admin_only.inc.php:278
+msgid "Request Arguments"
+msgstr "Аргументы запроса"
+
+#: ../lib/admin_only.inc.php:282
+msgid "Raw STW Response"
+msgstr "Неформатированный ответ STW"
+
+#: ../lib/admin_only.inc.php:295
+msgid "There are currently no debug logs to show."
+msgstr "В настоящее время нет журналов отладки для показа."
+
+#: ../lib/admin_only.inc.php:316
+msgid ""
+"The Shrink The Web mouseover bubble shows a thumbnail of the website when "
+"hovered over a link on your WordPress website. This gives website visitors a "
+"preview of the link before they visit the website you link to."
+msgstr ""
+"Отображаемый при наведении мыши пузырь The Shrink The Web показывает эскиз "
+"страницы, когда указатель мыши оказывается над ссылкой на ваш сайт "
+"WordPress. Это позволяет посетителям сайта предварительно просмотреть ссылку "
+"до того, как они посетят сайт, который вы привязали ссылкой."
+
+#: ../lib/admin_only.inc.php:317
+#, php-format
+msgid ""
+"If the \"%1$s\" is selected below, all external links will show ShrinkTheWeb "
+"preview bubbles. Use %2$s to disable popup bubble for a specific link."
+msgstr ""
+"Если ниже выбран параметр  \"%1$s\", рядом со всеми внешними ссылками будут "
+"отображаться пузыри эскизов ShrinkTheWeb. Для отключения всплывающего пузыря "
+"для конкретной ссылки используйте %2$s."
+
+#: ../lib/admin_only.inc.php:318
+#, php-format
+msgid ""
+"If the \"%3$s\" method is selected below, then you choose which links get a "
+"preview bubble by adding %4$s to any link where you want to show them."
+msgstr ""
+"Если ниже выбран способ \"%3$s\", то вы можете указать, рядом с какими "
+"ссылками будет отображаться пузырь эскиза, добавив %4$s к любой ссылке, "
+"возле которой хотите отобразить такой пузырь."
+
+#: ../lib/admin_only.inc.php:318 ../lib/admin_only.inc.php:513
+msgid "Automatic"
+msgstr "Автоматический"
+
+#: ../lib/admin_only.inc.php:318 ../lib/admin_only.inc.php:514
+msgid "Manual"
+msgstr "Ручной"
+
+#: ../lib/admin_only.inc.php:326
+msgid "See some examples on the documentation page"
+msgstr "Некоторые примеры на странице документации"
+
+#: ../lib/admin_only.inc.php:333
+#, php-format
+msgid ""
+"The following features <b>require an upgraded account</b>. You can find more "
+"details on the <a href=\"%1$s\" target=\"_blank\">Shrink The Web Upgrade "
+"Page</a>"
+msgstr ""
+"Следующие функции <b>требуют обновления аккаунта</b>. Вы можете более "
+"подробную информацию на <a href=\"%1$s\" target=\"_blank\">странице "
+"обновлений Shrink The Web</a>"
+
+#: ../lib/admin_only.inc.php:334
+#, php-format
+msgid ""
+"These settings are <b>global</b>, so they apply to <b>all thumbnails</b> on "
+"your website. Some of these settings have a per-thumbnail override, so "
+"please read <a href=\"%2$s\">the documentation</a> on how to apply these "
+"settings to specific thumbnails."
+msgstr ""
+"Эти настройки являются <b>глобальными </b>, поскольку они применяются ко "
+"<b>всем эскизам</b> на вашем сайте. Некоторые из этих настроек поддерживают "
+"переопределение каждого эскиза, поэтому прочитайте в <a href=\"%2$s"
+"\">документации</a> о том, как применить эти настройки к конкретным эскизам."
+
+#: ../lib/admin_only.inc.php:339
+msgid "Shrink The Web - Website Thumbnails - Settings"
+msgstr "Shrink The Web - Эскизы сайтов - Настройки"
+
+#: ../lib/admin_only.inc.php:341
+msgid "Thumbnail Settings"
+msgstr "Настройки эскизов"
+
+#: ../lib/admin_only.inc.php:349
+msgid "Account Settings"
+msgstr "Настройки аккаунта"
+
+#: ../lib/admin_only.inc.php:353
+msgid "Access Key Id"
+msgstr "Идентификатор ключа доступа"
+
+#: ../lib/admin_only.inc.php:357
+#, php-format
+msgid ""
+"Your Shrink The Web <b>access</b> key. You can find this within your <a href="
+"\"%s\" target=\"_blank\">STW Account Details</a>."
+msgstr ""
+"Ваш ключ <b>доступа</b> Shrink The Web. Вы можете найти его в <a href=\"%s\" "
+"target=\"_blank\">реквизитах аккаунта STW</a>."
+
+#: ../lib/admin_only.inc.php:361
+msgid ""
+"Your STW access key should only contain numbers and letters, and it's about "
+"15 characters long."
+msgstr ""
+"Ваш ключ доступа STW должен содержать только цифры и буквы, а его длина "
+"составляет примерно 15 символов."
+
+#: ../lib/admin_only.inc.php:366
+msgid "Secret Key Id"
+msgstr "Идентификатор секретного ключа"
+
+#: ../lib/admin_only.inc.php:370
+#, php-format
+msgid ""
+"Your Shrink The Web <b>secret</b> key. You can find this within your <a href="
+"\"%s\" target=\"_blank\">STW Account Details</a>."
+msgstr ""
+"Ваш <b>секретный</b> ключ Shrink The Web. Вы можете найти его в <a href=\"%s"
+"\" target=\"_blank\">реквизитах аккаунта STW</a>."
+
+#: ../lib/admin_only.inc.php:374
+msgid ""
+"Your STW secret key should only contain letters, numbers and special "
+"characters, and it's about 5-32 characters long."
+msgstr ""
+"Секретный ключ STW должен содержать только буквы, цифры и специальные "
+"символы, а его длина составляет примерно 5–32 символа."
+
+#: ../lib/admin_only.inc.php:379
+msgid "Your STW Account Level"
+msgstr "Уровень вашего аккаунта STW"
+
+#: ../lib/admin_only.inc.php:382
+msgid ""
+"If you change any aspects of your Shrink The Web account (such as upgrades), "
+"click on the <b>Save All Settings</b> button below to re-load what features "
+"you can use."
+msgstr ""
+"Если вы изменяете какие-либо аспекты своего аккаунта Shrink The Web "
+"(например, выполняете обновление), нажмите на кнопку <b>«Сохранить все "
+"настройки»</b> ниже, чтобы повторно загрузить перечень функций, которые вы "
+"можете использовать."
+
+#: ../lib/admin_only.inc.php:388
+msgid "Screenshot Settings"
+msgstr "Настройки скриншота"
+
+#: ../lib/admin_only.inc.php:388 ../lib/admin_only.inc.php:458
+#: ../lib/admin_only.inc.php:504 ../lib/admin_only.inc.php:535
+#: ../lib/admin_only.inc.php:642
+msgid "Save ALL Settings"
+msgstr "Сохранить ВСЕ настройки"
+
+#: ../lib/admin_only.inc.php:393
+msgid "Enable HTTP Secure (HTTPS)"
+msgstr "Включить защищенный HTTP (HTTPS)"
+
+#: ../lib/admin_only.inc.php:396
+msgid "Disable"
+msgstr "Выключить"
+
+#: ../lib/admin_only.inc.php:397
+msgid "Enable"
+msgstr "Включить"
+
+#: ../lib/admin_only.inc.php:399
+msgid "Use HTTPS to get screenshots."
+msgstr "Используйте HTTPS для получения скриншотов."
+
+#: ../lib/admin_only.inc.php:399
+msgid ""
+"This option disappears and HTTPS will be enabled automatically whenever "
+"HTTPS is detected."
+msgstr ""
+"Эта опция исчезает и HTTPS включается автоматически при обнаружении HTTPS."
+
+#: ../lib/admin_only.inc.php:419
+msgid "Default Screenshot Size"
+msgstr "Размер скриншотов по умолчанию"
+
+#: ../lib/admin_only.inc.php:429
+msgid "The size of the thumbnail shown by the thumbnail shortcode."
+msgstr "Размер эскиза, отображаемый его шорткодом."
+
+#: ../lib/admin_only.inc.php:434
+msgid "Cache Length in Days"
+msgstr "Продолжительность кэширования в днях"
+
+#: ../lib/admin_only.inc.php:437
+msgid "No caching (Embedded requests)"
+msgstr "Нет кэширования (встроенные запросы)"
+
+#: ../lib/admin_only.inc.php:438
+msgid "3 Days"
+msgstr "3 дня"
+
+#: ../lib/admin_only.inc.php:439
+msgid "7 Days (recommended)"
+msgstr "7 дней (рекомендуется)"
+
+#: ../lib/admin_only.inc.php:440
+msgid "10 Days"
+msgstr "10 дней"
+
+#: ../lib/admin_only.inc.php:441
+msgid "14 Days"
+msgstr "14 дней"
+
+#: ../lib/admin_only.inc.php:442
+msgid "21 Days"
+msgstr "21 день"
+
+#: ../lib/admin_only.inc.php:443
+msgid "30 Days"
+msgstr "30 дней"
+
+#: ../lib/admin_only.inc.php:445
+msgid "How long you want to cache the thumbnails for."
+msgstr "Как долго вы хотите хранить эскизы в кэше?"
+
+#: ../lib/admin_only.inc.php:450
+msgid "Custom Thumbnail Quality"
+msgstr "Особое качество эскиза"
+
+#: ../lib/admin_only.inc.php:453
+msgid ""
+"If you want to customise the thumbnail image quality, then you can select a "
+"quality value between 1% and 100%. A value of <b>1% is the lowest quality</"
+"b>, and <b>100% is the best quality</b>."
+msgstr ""
+"Если вы хотите настроить качество изображения эскиза, вы можете выбрать "
+"значение качества от 1% до 100%. Значение <b>1% — это самое низкое качество</"
+"b>, а <b>100% — это лучшее качество</b>."
+
+#: ../lib/admin_only.inc.php:458
+msgid "PRO Feature Settings"
+msgstr "Настройки PRO функций"
+
+#: ../lib/admin_only.inc.php:463
+msgid "Full-length Page Captures"
+msgstr "Полноразмерные снимки страниц"
+
+#: ../lib/admin_only.inc.php:466
+msgid "Enabled"
+msgstr "Включено"
+
+#: ../lib/admin_only.inc.php:467 ../lib/admin_only.inc.php:512
+msgid "Disabled"
+msgstr "Отключено"
+
+#: ../lib/admin_only.inc.php:475
+msgid "Custom Size"
+msgstr "Особый размер"
+
+#: ../lib/admin_only.inc.php:478
+msgid ""
+"Use this option if you want to set custom thumbnail size e.g. 641x356 or "
+"just custom width e.g 573 (image height will be calculated automatically to "
+"fit 4:3 proportion). Default Screenshot Size will be ignored. This setting "
+"apply to all screenshots that do not use a shortcode option override."
+msgstr ""
+"Используйте этот параметр, если хотите задать особый размер эскиза, "
+"например, 641x356, или только особую ширину, например, 573 (высота "
+"изображения будет рассчитана автоматически согласно пропорции 4:3). Размер "
+"скриншота по умолчанию будет игнорироваться. Этот параметр применяется ко "
+"всем скриншотам, которые не используют параметр переопределения шорткода."
+
+#: ../lib/admin_only.inc.php:482
+msgid "You must enter an integer for custom thumbnail size."
+msgstr ""
+"Вам необходимо ввести целое число для настройки особого размера эскиза."
+
+#: ../lib/admin_only.inc.php:489
+msgid "Custom Viewport"
+msgstr "Особое окно просмотра"
+
+#: ../lib/admin_only.inc.php:492
+msgid ""
+"Use this option if you want to set custom browser size e.g. 1280x960. This "
+"setting apply to all screenshots that do not use a shortcode option override."
+msgstr ""
+"Используйте этот параметр, если хотите задать особый размер браузера, "
+"например, 1280x960. Этот параметр применяется ко всем скриншотам, которые не "
+"используют параметр переопределения шорткода."
+
+#: ../lib/admin_only.inc.php:496
+msgid "You must enter an integer for custom viewport size."
+msgstr ""
+"Вам необходимо ввести целое число для настройки особого размера окна "
+"просмотра."
+
+#: ../lib/admin_only.inc.php:504
+msgid "Mouseover Bubble Settings"
+msgstr "Параметры наведения мышки на пузырь"
+
+#: ../lib/admin_only.inc.php:509
+msgid "Preview Bubbles Show Method"
+msgstr "Способ отображения пузыря эскиза"
+
+#: ../lib/admin_only.inc.php:520
+msgid "Preview Bubbles Thumbnail Size"
+msgstr "Размер эскиза в пузыре предпросмотра эскиза"
+
+#: ../lib/admin_only.inc.php:527
+msgid ""
+"The size of the thumbnail shown in the preview bubble when a website visitor "
+"hovers over a link."
+msgstr ""
+"Размер эскиза, отображаемого в пузыре эскиза, когда посетитель сайта наводит "
+"указатель мыши на ссылку."
+
+#: ../lib/admin_only.inc.php:549
+msgid "Your Account Features"
+msgstr "Функции вашего аккаунта"
+
+#: ../lib/admin_only.inc.php:554
+msgid "Feature"
+msgstr "Функция"
+
+#: ../lib/admin_only.inc.php:555
+msgid "Your Account"
+msgstr "Ваш аккаунт"
+
+#: ../lib/admin_only.inc.php:567
+msgid "Inside Pages Capture"
+msgstr "Съемка внутренних страниц"
+
+#: ../lib/admin_only.inc.php:571
+msgid "Full Length Capture"
+msgstr "Полноразмерный снимок"
+
+#: ../lib/admin_only.inc.php:575
+msgid "Custom Sizes"
+msgstr "Особые размеры"
+
+#: ../lib/admin_only.inc.php:589
+msgid "Get a STW Account..."
+msgstr "Получить аккаунт STW..."
+
+#: ../lib/admin_only.inc.php:592
+msgid "Website Thumbnail Provider"
+msgstr "Поставщик эскизов сайтов"
+
+#: ../lib/admin_only.inc.php:592
+msgid "Register for a free account with Shrink The Web"
+msgstr "Зарегистрируйте бесплатный аккаунт Shrink The Web"
+
+#: ../lib/admin_only.inc.php:596
+msgid "Need an account?"
+msgstr "Нужен аккаунт?"
+
+#: ../lib/admin_only.inc.php:597
+msgid "Register for FREE"
+msgstr "Зарегистрируйтесь БЕСПЛАТНО"
+
+#: ../lib/admin_only.inc.php:613
+msgid "Help &amp; Support"
+msgstr "Помощь и поддержка"
+
+#: ../lib/admin_only.inc.php:615
+msgid ""
+"If you've got a problem with the plugin, please follow the following steps."
+msgstr "Если у вас проблема с плагином, выполните следующие действия."
+
+#: ../lib/admin_only.inc.php:617
+#, php-format
+msgid ""
+"Check the <a href=\"%s\" target=\"_blank\">Frequently Asked Questions</a> on "
+"WordPress.org. Your issue might already be answered or resolved."
+msgstr ""
+"Ознакомьтесь с <a href=\"%s\" target=\"_blank\">Часто задаваемыми вопросами</"
+"a> на WordPress.org. На вас вопрос уже мог быть дан ответ, или он уже мог "
+"быть решен."
+
+#: ../lib/admin_only.inc.php:618
+#, php-format
+msgid ""
+"Check the <a href=\"%s\" target=\"_blank\">plugin support forum</a> on "
+"WordPress.org. Someone might have had the same issue, and fixed it already."
+msgstr ""
+"Посетите <a href=\"%s\" target=\"_blank\">форум поддержки плагина</a> на "
+"WordPress.org. Возможно, у кого-то уже возникал аналогичный вопрос, и он уже "
+"был решен."
+
+#: ../lib/admin_only.inc.php:619
+#, php-format
+msgid ""
+"If you think the problem is a <b>plugin problem</b>, please raise the "
+"problem in the <a href=\"%s\" target=\"_blank\">plugin support forum</a> on "
+"WordPress.org, including <b>as much detail as possible</b>, including any "
+"<b>error messages</b>."
+msgstr ""
+"Если вы считаете, что имеет место <b>проблема плагина</b>, сообщите о ней на "
+"<a href=\"%s\" target=\"_blank\">форуме поддержки плагина</a> на WordPress."
+"org, указав <b>как можно больше подробностей</b>, в том числе любые "
+"<b>сообщения об ошибке</b>."
+
+#: ../lib/admin_only.inc.php:620
+#, php-format
+msgid ""
+"If you think the problem is a <b>STW or STW account problem</b>, please "
+"raise the problem in the <a href=\"%s\" target=\"_blank\">STW support forum</"
+"a>, including <b>as much detail as possible</b>, including any <b>error "
+"messages</b>."
+msgstr ""
+"Если вы считаете, что имеет место <b>проблема STW или проблема с аккаунтом "
+"STW</b>, сообщите о ней на <a href=\"%s\" target=\"_blank\">форуме поддержки "
+"STW</a>, указав <b>как можно больше подробностей</b>, в том числе любые "
+"<b>сообщения об ошибке</b>."
+
+#: ../lib/admin_only.inc.php:624
+msgid "A word about the plugin authors..."
+msgstr "Несколько слов об авторах плагина..."
+
+#: ../lib/admin_only.inc.php:625
+#, php-format
+msgid ""
+"This plugin and the <a href=\"%1$s\" target=\"_blank\">Shrink The Web</a> "
+"service has been developed and is provided by <a href=\"%2$s\" target="
+"\"_blank\">Neosys Consulting, Inc.</a>"
+msgstr ""
+"Этот плагин и сервис <a href=\"%1$s\" target=\"_blank\">Shrink The Web</a> "
+"разработаны и предоставляются <a href=\"%2$s\" target=\"_blank\">Neosys "
+"Consulting, Inc.</a>"
+
+#: ../lib/admin_only.inc.php:684
+msgid "PayPal - The safer, easier way to pay online!"
+msgstr "PayPal - Безопасный и простой способ оплаты онлайн!"
+
+#~ msgid ""
+#~ "homepage,website,thumbnail,thumbnails,thumb,screenshot,snapshot,link,"
+#~ "links,images,image"
+#~ msgstr ""
+#~ "главная страница,веб-сайт,эскиз,эскизы,миниатюра,скриншот,снимок,ссылка,"
+#~ "ссылки,изображения,изображения"
+
+#~ msgid "https://neosys.net/profile.htm"
+#~ msgstr "https://neosys.net/profile.htm"
+
+#~ msgid "Neosys Consulting, Inc."
+#~ msgstr "Neosys Consulting, Inc."
+
+#~ msgid "Add ShrinkTheWeb Link Previews to your blog."
+#~ msgstr "Добавьте эскизы ShrinkTheWeb в свой блог."
+
+#~ msgid ""
+#~ "http://wordpress.org/extend/plugins/shrinktheweb-website-preview-plugin/"
+#~ msgstr ""
+#~ "http://wordpress.org/extend/plugins/shrinktheweb-website-preview-plugin/"
+
+#~ msgid "ShrinkTheWeb Website Thumbnails"
+#~ msgstr "Эскизы сайта ShrinkTheWeb"
